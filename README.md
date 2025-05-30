@@ -2,7 +2,6 @@
 **Lab Implementation for Suspicious Activity Detection**  
 
 ## 🔧 Lab Architecture  
-![Network Diagram](screenshots/lab_architecture.png)  
 - **Attacker VM**: Kali Linux 
 - **Target VM**: Windows 10 
 - **SIEM**: ELK Stack
