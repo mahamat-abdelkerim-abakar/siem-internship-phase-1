@@ -1,7 +1,7 @@
 
 ---
 
-#### **2. Reflection Questions (README.md Section)**  
+#### **Reflection Questions**  
 ```markdown
 ## 💡 Reflection Questions  
 
